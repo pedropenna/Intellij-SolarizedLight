@@ -6,7 +6,7 @@ Solarized Light color scheme for the Intellij 13 based on the excellent Solarize
 ...
 
 
-![Screenshot](https://github.com/pedropenna/Intellij-SolarizedLight/raw/master/Screenshot_Intellij_Zenburn.png)
+![Screenshot](https://github.com/pedropenna/Intellij-SolarizedLight/raw/master/Screenshot_Intellij_SolarizedLight.png)
 
 
 Installation
