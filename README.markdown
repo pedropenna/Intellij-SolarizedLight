@@ -1,7 +1,7 @@
 Intellij-SolarizedLight
 =======================
 
-Solarized Light color scheme for the Intellij 13 based on the Solarized for Emacs theme's colors (https://github.com/bbatsov/zenburn-emacs)
+Solarized Light color scheme for the Intellij 13 based on the excellent Solarized for Emacs theme's colors (https://github.com/bbatsov/solarized-emacs)
 
 ...
 
